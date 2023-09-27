@@ -1,0 +1,5 @@
+onset	duration	trial_type	response_time	int_rating	unp_rating	level	perspective
+1.54994869999973	1.01701270000012	warning_cue	n/a	n/a	n/a	n/a	neut
+3.13443009999992	12.6006851000002	heat	n/a	0.34375	0.1875	47	neut
+21.3007785999998	2.91441279999981	int_rating	2.41441279999981	0.34375	n/a	47	neut
+17.750164	3.5318656999998	unp_rating	3.0318656999998	n/a	0.1875	47	neut
